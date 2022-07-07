@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ioannis Karatsivoulis
+- 👋 Hi, I’m Ioannis
 - 👀 I’m interested in Aerospace Engineering, Artificial Intelligence and Software Development.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on anything!
